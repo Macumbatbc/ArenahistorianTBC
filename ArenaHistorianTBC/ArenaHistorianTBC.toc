@@ -1,0 +1,15 @@
+## Interface: 20502
+## Title: ArenaHistorian - TBC
+## Notes: Arena history and statistics
+## Author: Infinity
+## Version: 0.1.0
+## SavedVariables: ArenaHistorianTBC
+## SavedVariablesPerCharacter: ArenaHistoryTBCData
+
+embeds.xml
+locales.xml
+
+ArenaHistorianTBC.lua
+Constants.lua
+config.lua
+gui.lua
